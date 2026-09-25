@@ -110,7 +110,7 @@ G P U -> GPU
 O2O -> O to O
 B2B -> B to B
 ```
-* customizable via `data/whitelist/default.tsv`
+* default mappings live in `data/whitelist.tsv`; symbol and emoji mappings live in `data/whitelist/symbol.tsv`, sourced from eSpeak-ng `dictsource/cmn_emoji` at commit `ba90c8e9`. Existing NeMo mappings remain authoritative. Currency signs may intentionally also appear in `data/money/currency_major.tsv` so standalone symbols are verbalized by the whitelist while symbol-prefixed amounts are handled by the money grammar.
 
 ### 2.3 Post-Processing
 #### Punctuation Removal
