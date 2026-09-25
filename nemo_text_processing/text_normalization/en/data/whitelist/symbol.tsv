@@ -56,3 +56,2119 @@ $	dollar
 ♪	musical note
 ♭	flat
 ♯	sharp
+µ	micro
+₢	cruzeiro
+₣	french franc
+₤	lira
+₥	mill
+₧	Spanish Peseta
+₰	german penny
+₳	austral
+₶	livre tournois
+₷	spesmilo
+↚	leftwards arrow stroke
+↛	rightwards arrow stroke
+↜	leftwards wave arrow
+↝	rightwards wave arrow
+↞	leftwards two headed arrow
+↟	upwards two headed arrow
+↠	rightwards two headed arrow
+↡	downwards two headed arrow
+↢	leftwards arrow tail
+↣	rightwards arrow tail
+↤	leftwards arrow from bar
+↥	upwards arrow from bar
+↦	rightwards arrow from bar
+↧	downwards arrow from bar
+↨	up down arrow with base
+↫	leftwards arrow loop
+↬	rightwards arrow loop
+↭	left right wave arrow
+↮	left right arrow stroke
+↯	downwards zigzag arrow
+↰	upwards arrow tip leftwards
+↱	upwards arrow tip rightwards
+↲	downwards arrow tip leftwards
+↳	downwards arrow tip rightwards
+↴	rightwards arrow corner downwards
+↵	downwards arrow corner leftwards
+↶	anticlockwise top semicircle arrow
+↷	clockwise top semicircle arrow
+↸	north west arrow long bar
+↹	leftwards over rightwards arrow bars
+↺	anticlockwise open circle arrow
+↻	clockwise open circle arrow
+↼	leftwards harpoon barb upwards
+↽	leftwards harpoon barb downwards
+↾	upwards harpoon barb rightwards
+↿	upwards harpoon barb leftwards
+⇀	rightwards harpoon barb upwards
+⇁	rightwards harpoon barb downwards
+⇂	downwards harpoon barb rightwards
+⇃	downwards harpoon barb leftwards
+⇄	rightwards arrow over leftwards arrow
+⇅	up-pointing and down-pointing arrows
+⇆	left-pointing over right-pointing arrows
+⇇	leftwards paired arrows
+⇈	upwards paired arrows
+⇉	rightwards paired arrows
+⇊	downwards paired arrows
+⇋	leftwards harpoon over rightwards harpoon
+⇌	rightwards harpoon over leftwards harpoon
+⇍	leftwards double arrow stroke
+⇎	left right double arrow stroke
+⇏	rightwards double arrow stroke
+⇖	north west double arrow
+⇗	north east double arrow
+⇘	south east double arrow
+⇙	south west double arrow
+⇚	leftwards triple arrow
+⇛	rightwards triple arrow
+⇜	leftwards squiggle arrow
+⇝	rightwards squiggle arrow
+⇞	upwards arrow double stroke
+⇟	downwards arrow double stroke
+⇠	leftwards dashed arrow
+⇡	upwards dashed arrow
+⇢	rightwards dashed arrow
+⇣	downwards dashed arrow
+⇤	leftwards arrow bar
+⇥	rightwards arrow bar
+⇦	leftwards hollow arrow
+⇧	upwards hollow arrow
+⇨	rightwards hollow arrow
+⇩	downwards hollow arrow
+⇪	upwards hollow arrow from bar
+⇵	downwards arrow leftwards upwards arrow
+∀	for all
+∂	delta
+∃	there exists
+∅	empty set
+∆	increment
+∇	nabla
+∎	end proof
+∏	n-ary product
+∑	sum sign
+∘	ring operator
+√	square root
+∛	cube root
+∞	infinity
+∟	right angle
+∠	angle
+∫	integral
+∬	double integral
+∮	contour integral
+∴	therefore
+∵	because
+∶	ratio
+∷	proportion
+∼	tilde operator
+∽	reversed tilde
+∾	inverted lazy s
+≌	all equal
+≒	approximately equal the image
+≖	ring in equal
+≣	strictly equivalent
+≬	between
+≳	greater-than equivalent
+⊁	does not succeed
+⊙	circled dot operator
+⊚	circled ring operator
+⊛	circled asterisk operator
+⊞	squared plus
+⊟	squared minus
+⊥	up tack
+⊮	does not force
+⊰	precedes under relation
+⊱	succeeds under relation
+⊶	original
+⊹	hermitian conjugate matrix
+⊿	right triangle
+⋁	n-ary logical or
+⋂	n-ary intersection
+⋃	n-ary union
+⋒	double intersection
+⋘	very much less-than
+⋙	very much greater-than
+⋭	does not contain as normal subgroup equal
+⋮	vertical ellipsis
+⋯	midline horizontal ellipsis
+⋰	up right diagonal ellipsis
+⋱	down right diagonal ellipsis
+⌚	watch
+⌛	hourglass done
+⌨	keyboard
+⏏	eject button
+⏩	fast forward button
+⏪	fast reverse button
+⏫	fast up button
+⏬	fast down button
+⏭	next track button
+⏮	last track button
+⏯	play or pause button
+⏰	alarm clock
+⏱	stopwatch
+⏲	timer clock
+⏳	hourglass not done
+⏸	pause button
+⏹	stop button
+⏺	record button
+Ⓜ	circled m
+■	black square
+□	hollow square
+▢	hollow square with rounded corners
+▣	hollow square containing filled square
+▤	square with horizontal fill
+▥	square with vertical fill
+▦	square orthogonal crosshatch fill
+▧	square upper left lower right fill
+▨	square upper right lower left fill
+▩	square diagonal crosshatch fill
+▪	black small square
+▫	white small square
+▬	filled rectangle
+▭	hollow rectangle
+▮	filled vertical rectangle
+▰	filled parallelogram
+▲	filled up-pointing triangle
+△	hollow up-pointing triangle
+▴	filled up-pointing small triangle
+▵	hollow up-pointing small triangle
+▶	play button
+▷	hollow right-pointing triangle
+▸	filled right-pointing small triangle
+▹	hollow right-pointing small triangle
+►	filled right-pointing pointer
+▻	hollow right-pointing pointer
+▼	filled down-pointing triangle
+▽	hollow down-pointing triangle
+▾	filled down-pointing small triangle
+▿	hollow down-pointing small triangle
+◀	reverse button
+◁	hollow left-pointing triangle
+◂	filled left-pointing small triangle
+◃	hollow left-pointing small triangle
+◄	filled left-pointing pointer
+◅	hollow left-pointing pointer
+◆	filled diamond
+◇	hollow diamond
+◈	hollow diamond containing filled diamond
+◉	hollow circle containing filled circle
+◊	lozenge
+○	hollow circle
+◌	dotted circle
+◍	circle with vertical fill
+◎	concentric circles
+●	black circle
+◐	circle left half filled
+◑	circle right half filled
+◒	circle lower half filled
+◓	circle upper half filled
+◔	circle upper right quadrant filled
+◕	circle all but upper left quadrant filled
+◖	left half filled circle
+◗	right half filled circle
+◘	inverse bullet
+◙	filled square containing hollow circle
+◜	upper left quadrant circular arc
+◝	upper right quadrant circular arc
+◞	lower right quadrant circular arc
+◟	lower left quadrant circular arc
+◠	upper half circle
+◡	lower half circle
+◢	filled lower right triangle
+◣	filled lower left triangle
+◤	filled upper left triangle
+◥	filled upper right triangle
+◦	hollow bullet
+◯	large hollow circle
+◳	hollow square upper right quadrant
+◷	hollow circle with upper right quadrant
+◻	white medium square
+◼	black medium square
+◽	white medium small square
+◾	black medium small square
+◿	lower right triangle
+☀	sun
+☁	cloud
+☂	umbrella
+☃	snowman
+☄	comet
+☎	telephone
+☑	ballot box with check
+☔	umbrella with rain drops
+☕	hot beverage
+☘	shamrock
+☝	index pointing up
+☠	skull and crossbones
+☢	radioactive
+☣	biohazard
+☦	orthodox cross
+☪	star and crescent
+☮	peace symbol
+☯	yin yang
+☸	wheel of dharma
+☹	frowning face
+☺	smiling face
+♀	female sign
+♂	male sign
+♈	aries
+♉	taurus
+♊	gemini
+♋	cancer
+♌	leo
+♍	virgo
+♎	libra
+♏	scorpio
+♐	sagittarius
+♑	capricorn
+♒	aquarius
+♓	pisces
+♟	chess pawn
+♠	spade suit
+♣	club suit
+♥	heart suit
+♦	diamond suit
+♨	hot springs
+♻	recycling symbol
+♾	infinity
+♿	wheelchair symbol
+⚒	hammer and pick
+⚓	anchor
+⚔	crossed swords
+⚕	medical symbol
+⚖	balance scale
+⚗	alembic
+⚙	gear
+⚛	atom symbol
+⚜	fleur de lis
+⚠	warning
+⚡	high voltage
+⚧	transgender symbol
+⚪	white circle
+⚫	black circle
+⚰	coffin
+⚱	funeral urn
+⚽	soccer ball
+⚾	baseball
+⛄	snowman without snow
+⛅	sun behind cloud
+⛈	cloud with lightning and rain
+⛎	ophiuchus
+⛏	pick
+⛑	rescue worker's helmet
+⛓	chains
+⛔	no entry
+⛩	shinto shrine
+⛪	church
+⛰	mountain
+⛱	umbrella on ground
+⛲	fountain
+⛳	flag in hole
+⛴	ferry
+⛵	sailboat
+⛷	skier
+⛸	ice skate
+⛹	person bouncing ball
+⛺	tent
+⛽	fuel pump
+✂	scissors
+✅	white heavy check mark
+✈	airplane
+✉	envelope
+✊	raised fist
+✋	raised hand
+✌	victory hand
+✍	writing hand
+✏	pencil
+✒	black nib
+✔	heavy check mark
+✖	heavy multiplication x
+✝	latin cross
+✡	star of david
+✨	sparkles
+✳	eight spoked asterisk
+✴	eight pointed star
+❄	snowflake
+❇	sparkle
+❌	cross mark
+❎	cross mark button
+❓	question mark
+❔	white question mark
+❕	white exclamation mark
+❗	exclamation mark
+❣	heavy heart exclamation
+❤	red heart
+➕	heavy plus sign
+➖	heavy minus sign
+➗	heavy division sign
+➡	right arrow
+➰	curly loop
+➿	double curly loop
+⤴	right arrow curving up
+⤵	right arrow curving down
+⨧	plus subscript two
+⨯	vector cross product
+⨼	interior product
+⩣	logical or double underbar
+⩽	less-than slanted equal
+⪍	less-than above similar equal
+⪚	double-line equal greater-than
+⪺	succeeds above not almost equal
+⬅	left arrow
+⬆	up arrow
+⬇	down arrow
+⬛	black large square
+⬜	white large square
+⭐	star
+⭕	heavy large circle
+〰	wavy dash
+〽	part alternation mark
+㊗	japanese congratulations button
+㊙	japanese secret button
+🅰	a button blood type
+🅱	b button blood type
+🅾	o button blood type
+🅿	p button
+🆎	a b button blood type
+🆑	c l button
+🆒	cool button
+🆓	free button
+🆔	i d button
+🆕	new button
+🆖	n g button
+🆗	o k button
+🆘	s o s button
+🆙	up exclamation mark button
+🆚	v s button
+🇨🇶	Sark
+🈁	japanese here button
+🈂	japanese service charge button
+🈚	japanese free of charge button
+🈯	japanese reserved button
+🈲	japanese prohibited button
+🈳	japanese vacancy button
+🈴	japanese passing grade button
+🈵	japanese no vacancy button
+🈶	japanese not free of charge button
+🈷	japanese monthly amount button
+🈸	japanese application button
+🈹	japanese discount button
+🈺	japanese open for business button
+🉐	japanese bargain button
+🉑	japanese acceptable button
+🀄	mahjong red dragon
+🃏	joker
+🌀	cyclone
+🌁	foggy
+🌂	closed umbrella
+🌃	night with stars
+🌄	sunrise over mountains
+🌅	sunrise
+🌆	cityscape at dusk
+🌇	sunset
+🌈	rainbow
+🌉	bridge at night
+🌊	water wave
+🌋	volcano
+🌌	milky way
+🌍	globe showing europe africa
+🌎	globe showing americas
+🌏	globe showing asia australia
+🌐	globe with meridians
+🌑	new moon
+🌒	waxing crescent moon
+🌓	first quarter moon
+🌔	waxing gibbous moon
+🌕	full moon
+🌖	waning gibbous moon
+🌗	last quarter moon
+🌘	waning crescent moon
+🌙	crescent moon
+🌚	new moon face
+🌛	first quarter moon face
+🌜	last quarter moon face
+🌝	full moon face
+🌞	sun with face
+🌟	glowing star
+🌠	shooting star
+🌡	thermometer
+🌤	sun behind small cloud
+🌥	sun behind large cloud
+🌦	sun behind rain cloud
+🌧	cloud with rain
+🌨	cloud with snow
+🌩	cloud with lightning
+🌪	tornado
+🌫	fog
+🌬	wind face
+🌭	hot dog
+🌮	taco
+🌯	burrito
+🌰	chestnut
+🌱	seedling
+🌲	evergreen tree
+🌳	deciduous tree
+🌴	palm tree
+🌵	cactus
+🌶	hot pepper
+🌷	tulip
+🌸	cherry blossom
+🌹	rose
+🌺	hibiscus
+🌻	sunflower
+🌼	blossom
+🌽	ear of corn
+🌾	sheaf of rice
+🌿	herb
+🍀	four leaf clover
+🍁	maple leaf
+🍂	fallen leaf
+🍃	leaf fluttering in wind
+🍄	mushroom
+🍅	tomato
+🍆	eggplant
+🍇	grapes
+🍈	melon
+🍉	watermelon
+🍊	tangerine
+🍋	lemon
+🍌	banana
+🍍	pineapple
+🍎	red apple
+🍏	green apple
+🍐	pear
+🍑	peach
+🍒	cherries
+🍓	strawberry
+🍔	hamburger
+🍕	pizza
+🍖	meat on bone
+🍗	poultry leg
+🍘	rice cracker
+🍙	rice ball
+🍚	cooked rice
+🍛	curry rice
+🍜	steaming bowl
+🍝	spaghetti
+🍞	bread
+🍟	french fries
+🍠	roasted sweet potato
+🍡	dango
+🍢	oden
+🍣	sushi
+🍤	fried shrimp
+🍥	fish cake with swirl
+🍦	soft ice cream
+🍧	shaved ice
+🍨	ice cream
+🍩	doughnut
+🍪	cookie
+🍫	chocolate bar
+🍬	candy
+🍭	lollipop
+🍮	custard
+🍯	honey pot
+🍰	shortcake
+🍱	bento box
+🍲	pot of food
+🍳	cooking
+🍴	fork and knife
+🍵	teacup without handle
+🍶	sake
+🍷	wine glass
+🍸	cocktail glass
+🍹	tropical drink
+🍺	beer mug
+🍻	clinking beer mugs
+🍼	baby bottle
+🍽	fork and knife with plate
+🍾	bottle with popping cork
+🍿	popcorn
+🎀	ribbon
+🎁	wrapped gift
+🎂	birthday cake
+🎃	jack o'lantern
+🎄	christmas tree
+🎅	santa claus
+🎆	fireworks
+🎇	sparkler
+🎈	balloon
+🎉	party popper
+🎊	confetti ball
+🎋	tanabata tree
+🎌	crossed flags
+🎍	pine decoration
+🎎	japanese dolls
+🎏	carp streamer
+🎐	wind chime
+🎑	moon viewing ceremony
+🎒	school backpack
+🎓	graduation cap
+🎖	military medal
+🎗	reminder ribbon
+🎙	studio microphone
+🎚	level slider
+🎛	control knobs
+🎞	film frames
+🎟	admission tickets
+🎠	carousel horse
+🎡	ferris wheel
+🎢	roller coaster
+🎣	fishing pole
+🎤	microphone
+🎥	movie camera
+🎦	cinema
+🎧	headphone
+🎨	artist palette
+🎩	top hat
+🎪	circus tent
+🎫	ticket
+🎬	clapper board
+🎭	performing arts
+🎮	video game
+🎯	direct hit
+🎰	slot machine
+🎱	pool 8 ball
+🎲	game die
+🎳	bowling
+🎴	flower playing cards
+🎵	musical note
+🎶	musical notes
+🎷	saxophone
+🎸	guitar
+🎹	musical keyboard
+🎺	trumpet
+🎻	violin
+🎼	musical score
+🎽	running shirt
+🎾	tennis
+🎿	skis
+🏀	basketball
+🏁	chequered flag
+🏂	snowboarder
+🏃	person running
+🏄	person surfing
+🏅	sports medal
+🏆	trophy
+🏇	horse racing
+🏈	american football
+🏉	rugby football
+🏊	person swimming
+🏋	person lifting weights
+🏌	person golfing
+🏍	motorcycle
+🏎	racing car
+🏏	cricket game
+🏐	volleyball
+🏑	field hockey
+🏒	ice hockey
+🏓	ping pong
+🏔	snow capped mountain
+🏕	camping
+🏖	beach with umbrella
+🏗	building construction
+🏘	house
+🏙	cityscape
+🏚	derelict house
+🏛	classical building
+🏜	desert
+🏝	desert island
+🏞	national park
+🏟	stadium
+🏠	houses
+🏡	house with garden
+🏢	office building
+🏣	japanese post office
+🏤	post office
+🏥	hospital
+🏦	bank
+🏧	a t m sign
+🏨	hotel
+🏩	love hotel
+🏪	convenience store
+🏫	school
+🏬	department store
+🏭	factory
+🏮	red paper lantern
+🏯	japanese castle
+🏰	castle
+🏳	white flag
+🏴	black flag
+🏵	rosette
+🏷	label
+🏸	badminton
+🏹	bow and arrow
+🏺	amphora
+🏻	light skin tone
+🏼	medium-light skin tone
+🏽	medium skin tone
+🏾	medium-dark skin tone
+🏿	dark skin tone
+🐀	rat
+🐁	mouse
+🐂	ox
+🐃	water buffalo
+🐄	cow
+🐅	tiger
+🐆	leopard
+🐇	rabbit
+🐈	cat
+🐉	dragon
+🐊	crocodile
+🐋	whale
+🐌	snail
+🐍	snake
+🐎	horse
+🐏	ram
+🐐	goat
+🐑	ewe
+🐒	monkey
+🐓	rooster
+🐔	chicken
+🐕	dog
+🐖	pig
+🐗	boar
+🐘	elephant
+🐙	octopus
+🐚	spiral shell
+🐛	bug
+🐜	ant
+🐝	honeybee
+🐞	lady beetle
+🐟	fish
+🐠	tropical fish
+🐡	blowfish
+🐢	turtle
+🐣	hatching chick
+🐤	baby chick
+🐥	front facing baby chick
+🐦	bird
+🐧	penguin
+🐨	koala
+🐩	poodle
+🐪	camel
+🐫	two hump camel
+🐬	dolphin
+🐭	mouse face
+🐮	cow face
+🐯	tiger face
+🐰	rabbit face
+🐱	cat face
+🐲	dragon face
+🐳	spouting whale
+🐴	horse face
+🐵	monkey face
+🐶	dog face
+🐷	pig face
+🐸	frog face
+🐹	hamster face
+🐺	wolf face
+🐻	bear face
+🐼	panda face
+🐽	pig nose
+🐾	paw prints
+🐿	chipmunk
+👀	eyes
+👁	eye
+👂	ear
+👃	nose
+👄	mouth
+👅	tongue
+👆	backhand index pointing up
+👇	backhand index pointing down
+👈	backhand index pointing left
+👉	backhand index pointing right
+👊	oncoming fist
+👋	waving hand
+👌	o k hand
+👍	thumbs up
+👎	thumbs down
+👏	clapping hands
+👐	open hands
+👑	crown
+👒	woman's hat
+👓	glasses
+👔	necktie
+👕	t shirt
+👖	jeans
+👗	dress
+👘	kimono
+👙	bikini
+👚	woman's clothes
+👛	purse
+👜	handbag
+👝	clutch bag
+👞	man's shoe
+👟	running shoe
+👠	high heeled shoe
+👡	woman's sandal
+👢	woman's boot
+👣	footprints
+👤	bust in silhouette
+👥	busts in silhouette
+👦	boy
+👧	girl
+👨	man
+👩	woman
+👪	family
+👫	man and woman holding hands
+👬	two men holding hands
+👭	two women holding hands
+👮	police officer
+👯	people with bunny ears
+👰	bride with veil
+👱	blond haired person
+👲	man with chinese cap
+👳	person wearing turban
+👴	old man
+👵	old woman
+👶	baby
+👷	construction worker
+👸	princess
+👹	ogre
+👺	goblin
+👻	ghost
+👼	baby angel
+👽	alien
+👾	alien monster
+👿	angry face with horns
+💀	skull
+💁	person tipping hand
+💂	guard
+💃	woman dancing
+💄	lipstick
+💅	nail polish
+💆	person getting massage
+💇	person getting haircut
+💈	barber pole
+💉	syringe
+💊	pill
+💋	kiss mark
+💌	love letter
+💍	ring
+💎	gem stone
+💏	kiss
+💐	bouquet
+💑	couple with heart
+💒	wedding
+💓	beating heart
+💔	broken heart
+💕	two hearts
+💖	sparkling heart
+💗	growing heart
+💘	heart with arrow
+💙	blue heart
+💚	green heart
+💛	yellow heart
+💜	purple heart
+💝	heart with ribbon
+💞	revolving hearts
+💟	heart decoration
+💠	diamond with a dot
+💡	light bulb
+💢	anger symbol
+💣	bomb
+💤	zzz
+💥	collision
+💦	sweat droplets
+💧	droplet
+💨	dashing away
+💩	pile of poo
+💪	flexed biceps
+💫	dizzy
+💬	speech balloon
+💭	thought balloon
+💮	white flower
+💯	hundred points
+💰	money bag
+💱	currency exchange
+💲	heavy dollar sign
+💳	credit card
+💴	yen banknote
+💵	dollar banknote
+💶	euro banknote
+💷	pound banknote
+💸	money with wings
+💹	chart increasing with yen
+💺	seat
+💻	laptop computer
+💼	briefcase
+💽	computer disk
+💾	floppy disk
+💿	optical disk
+📀	dvd
+📁	file folder
+📂	open file folder
+📃	page with curl
+📄	page facing up
+📅	calendar
+📆	tear off calendar
+📇	card index
+📈	chart increasing
+📉	chart decreasing
+📊	bar chart
+📋	clipboard
+📌	pushpin
+📍	round pushpin
+📎	paperclip
+📏	straight ruler
+📐	triangular ruler
+📑	bookmark tabs
+📒	ledger
+📓	notebook
+📔	notebook with decorative cover
+📕	closed book
+📖	open book
+📗	green book
+📘	blue book
+📙	orange book
+📚	books
+📛	name badge
+📜	scroll
+📝	memo
+📞	telephone receiver
+📟	pager
+📠	fax machine
+📡	satellite antenna
+📢	loudspeaker
+📣	megaphone
+📤	outbox tray
+📥	inbox tray
+📦	package
+📧	e mail
+📨	incoming envelope
+📩	envelope with arrow
+📪	closed mailbox with lowered flag
+📫	closed mailbox with raised flag
+📬	open mailbox with raised flag
+📭	open mailbox with lowered flag
+📮	postbox
+📯	postal horn
+📰	newspaper
+📱	mobile phone
+📲	mobile phone with arrow
+📳	vibration mode
+📴	mobile phone off
+📵	no mobile phones
+📶	antenna bars
+📷	camera
+📸	camera with flash
+📹	video camera
+📺	television
+📻	radio
+📼	videocassette
+📽	film projector
+📿	prayer beads
+🔀	shuffle tracks button
+🔁	repeat button
+🔂	repeat single button
+🔃	clockwise vertical arrows
+🔄	counterclockwise arrows button
+🔅	dim button
+🔆	bright button
+🔇	muted speaker
+🔈	speaker low volume
+🔉	speaker medium volume
+🔊	speaker high volume
+🔋	battery
+🔌	electric plug
+🔍	magnifying glass tilted left
+🔎	magnifying glass tilted right
+🔏	locked with pen
+🔐	locked with key
+🔑	key
+🔒	locked
+🔓	unlocked
+🔔	bell
+🔕	bell with slash
+🔖	bookmark
+🔗	link
+🔘	radio button
+🔙	back arrow
+🔚	end arrow
+🔛	on exclamation mark arrow
+🔜	soon arrow
+🔝	top arrow
+🔞	no one under eighteen
+🔟	keycap 10
+🔠	input latin uppercase
+🔡	input latin lowercase
+🔢	input numbers
+🔣	input symbols
+🔤	input latin letters
+🔥	fire
+🔦	flashlight
+🔧	wrench
+🔨	hammer
+🔩	nut and bolt
+🔪	kitchen knife
+🔫	pistol
+🔬	microscope
+🔭	telescope
+🔮	crystal ball
+🔯	dotted six pointed star
+🔰	japanese symbol for beginner
+🔱	trident emblem
+🔲	black square button
+🔳	white square button
+🔴	red circle
+🔵	blue circle
+🔶	large orange diamond
+🔷	large blue diamond
+🔸	small orange diamond
+🔹	small blue diamond
+🔺	red triangle pointed up
+🔻	red triangle pointed down
+🔼	upwards button
+🔽	downwards button
+🕉	om
+🕊	dove
+🕋	kaaba
+🕌	mosque
+🕍	synagogue
+🕎	menorah
+🕐	one o'clock
+🕑	two o'clock
+🕒	three o'clock
+🕓	four o'clock
+🕔	five o'clock
+🕕	six o'clock
+🕖	seven o'clock
+🕗	eight o'clock
+🕘	nine o'clock
+🕙	ten o'clock
+🕚	eleven o'clock
+🕛	twelve o'clock
+🕜	one thirty
+🕝	two thirty
+🕞	three thirty
+🕟	four thirty
+🕠	five thirty
+🕡	six thirty
+🕢	seven thirty
+🕣	eight thirty
+🕤	nine thirty
+🕥	ten thirty
+🕦	eleven thirty
+🕧	twelve thirty
+🕯	candle
+🕰	mantelpiece clock
+🕳	hole
+🕴	man in suit levitating
+🕵	detective
+🕶	sunglasses
+🕷	spider
+🕸	spider web
+🕹	joystick
+🕺	man dancing
+🖇	linked paperclips
+🖊	pen
+🖋	fountain pen
+🖌	paintbrush
+🖍	crayon
+🖐	hand with fingers splayed
+🖕	middle finger
+🖖	vulcan salute
+🖤	black heart
+🖥	desktop computer
+🖨	printer
+🖱	computer mouse
+🖲	trackball
+🖼	framed picture
+🗂	card index dividers
+🗃	card file box
+🗄	file cabinet
+🗑	wastebasket
+🗒	spiral notepad
+🗓	spiral calendar
+🗜	clamp
+🗝	old key
+🗞	rolled up newspaper
+🗡	dagger
+🗣	speaking head
+🗨	left speech bubble
+🗯	right anger bubble
+🗳	ballot box with ballot
+🗺	world map
+🗻	mount fuji
+🗼	tokyo tower
+🗽	statue of liberty
+🗾	map of japan
+🗿	moai
+😀	grinning face
+😁	beaming face with smiling eyes
+😂	face with tears of joy
+😃	grinning face with big eyes
+😄	grinning face with smiling eyes
+😅	grinning face with sweat
+😆	grinning squinting face
+😇	smiling face with halo
+😈	smiling face with horns
+😉	winking face
+😊	smiling face with smiling eyes
+😋	face savoring food
+😌	relieved face
+😍	smiling face with heart eyes
+😎	smiling face with sunglasses
+😏	smirking face
+😐	neutral face
+😑	expressionless face
+😒	unamused face
+😓	downcast face with sweat
+😔	pensive face
+😕	confused face
+😖	confounded face
+😗	kissing face
+😘	face blowing a kiss
+😙	kissing face with smiling eyes
+😚	kissing face with closed eyes
+😛	face with tongue
+😜	winking face with tongue
+😝	squinting face with tongue
+😞	disappointed face
+😟	worried face
+😠	angry face
+😡	pouting face
+😢	crying face
+😣	persevering face
+😤	face with steam from nose
+😥	sad but relieved face
+😦	frowning face with open mouth
+😧	anguished face
+😨	fearful face
+😩	weary face
+😪	sleepy face
+😫	tired face
+😬	grimacing face
+😭	loudly crying face
+😮	face with open mouth
+😯	hushed face
+😰	anxious face with sweat
+😱	face screaming in fear
+😲	astonished face
+😳	flushed face
+😴	sleeping face
+😵	dizzy face
+😶	face without mouth
+😷	face with medical mask
+😸	grinning cat face with smiling eyes
+😹	cat face with tears of joy
+😺	grinning cat face
+😻	smiling cat face with heart eyes
+😼	cat face with wry smile
+😽	kissing cat face
+😾	pouting cat face
+😿	crying cat face
+🙀	weary cat face
+🙁	slightly frowning face
+🙂	slightly smiling face
+🙃	upside down face
+🙄	face with rolling eyes
+🙅	person gesturing no
+🙆	person gesturing ok
+🙇	person bowing
+🙈	see no evil monkey
+🙉	hear no evil monkey
+🙊	speak no evil monkey
+🙋	person raising hand
+🙌	raising hands
+🙍	person frowning
+🙎	person pouting
+🙏	folded hands
+🚀	rocket
+🚁	helicopter
+🚂	locomotive
+🚃	railway car
+🚄	high speed train
+🚅	bullet train
+🚆	train
+🚇	metro
+🚈	light rail
+🚉	station
+🚊	tram
+🚋	tram car
+🚌	bus
+🚍	oncoming bus
+🚎	trolleybus
+🚏	bus stop
+🚐	minibus
+🚑	ambulance
+🚒	fire engine
+🚓	police car
+🚔	oncoming police car
+🚕	taxi
+🚖	oncoming taxi
+🚗	automobile
+🚘	oncoming automobile
+🚙	sport utility vehicle
+🚚	delivery truck
+🚛	articulated lorry
+🚜	tractor
+🚝	monorail
+🚞	mountain railway
+🚟	suspension railway
+🚠	mountain cableway
+🚡	aerial tramway
+🚢	ship
+🚣	person rowing boat
+🚤	speedboat
+🚥	horizontal traffic light
+🚦	vertical traffic light
+🚧	construction
+🚨	police car light
+🚩	triangular flag
+🚪	door
+🚫	prohibited
+🚬	cigarette
+🚭	no smoking
+🚮	litter in bin sign
+🚯	no littering
+🚰	potable water
+🚱	non potable water
+🚲	bicycle
+🚳	no bicycles
+🚴	person biking
+🚵	person mountain biking
+🚶	person walking
+🚷	no pedestrians
+🚸	children crossing
+🚹	men's room
+🚺	women's room
+🚻	restroom
+🚼	baby symbol
+🚽	toilet
+🚾	water closet
+🚿	shower
+🛀	person taking bath
+🛁	bathtub
+🛂	passport control
+🛃	customs
+🛄	baggage claim
+🛅	left luggage
+🛋	couch and lamp
+🛌	person in bed
+🛍	shopping bags
+🛎	bellhop bell
+🛏	bed
+🛐	place of worship
+🛑	stop sign
+🛒	shopping cart
+🛕	hindu temple
+🛖	hut
+🛗	elevator
+🛜	wireless
+🛝	playground slide
+🛞	wheel
+🛟	ring buoy
+🛠	hammer and wrench
+🛡	shield
+🛢	oil drum
+🛣	motorway
+🛤	railway track
+🛥	motor boat
+🛩	small airplane
+🛫	airplane departure
+🛬	airplane arrival
+🛰	satellite
+🛳	passenger ship
+🛴	kick scooter
+🛵	motor scooter
+🛶	canoe
+🛷	sled
+🛸	flying saucer
+🛹	skateboard
+🛺	auto rickshaw
+🛻	pickup truck
+🛼	roller skate
+🟠	orange circle
+🟡	yellow circle
+🟢	green circle
+🟣	purple circle
+🟤	brown circle
+🟥	red square
+🟦	blue square
+🟧	orange square
+🟨	yellow square
+🟩	green square
+🟪	purple square
+🟫	brown square
+🟰	heavy equals sign
+🤌	pinched fingers
+🤍	white heart
+🤎	brown heart
+🤏	pinching hand
+🤐	zipper mouth face
+🤑	money mouth face
+🤒	face with thermometer
+🤓	nerd face
+🤔	thinking face
+🤕	face with head bandage
+🤖	robot face
+🤗	hugging face
+🤘	sign of the horns
+🤙	call me hand
+🤚	raised back of hand
+🤛	left facing fist
+🤜	right facing fist
+🤝	handshake
+🤞	crossed fingers
+🤟	love you gesture
+🤠	cowboy hat face
+🤡	clown face
+🤢	nauseated face
+🤣	rolling on the floor laughing
+🤤	drooling face
+🤥	lying face
+🤦	person facepalming
+🤧	sneezing face
+🤨	face with raised eyebrow
+🤩	star struck
+🤪	zany face
+🤫	shushing face
+🤬	face with symbols on mouth
+🤭	face with hand over mouth
+🤮	face vomiting
+🤯	exploding head
+🤰	pregnant woman
+🤱	breast feeding
+🤲	palms up together
+🤳	selfie
+🤴	prince
+🤵	man in tuxedo
+🤶	misses claus
+🤷	person shrugging
+🤸	person cartwheeling
+🤹	person juggling
+🤺	person fencing
+🤼	people wrestling
+🤽	person playing water polo
+🤾	person playing handball
+🤿	diving mask
+🥀	wilted flower
+🥁	drum
+🥂	clinking glasses
+🥃	tumbler glass
+🥄	spoon
+🥅	goal net
+🥇	first place medal
+🥈	second place medal
+🥉	third place medal
+🥊	boxing glove
+🥋	martial arts uniform
+🥌	curling stone
+🥍	lacrosse
+🥎	softball
+🥏	flying disc
+🥐	croissant
+🥑	avocado
+🥒	cucumber
+🥓	bacon
+🥔	potato
+🥕	carrot
+🥖	baguette bread
+🥗	green salad
+🥘	shallow pan of food
+🥙	stuffed flatbread
+🥚	egg
+🥛	glass of milk
+🥜	peanuts
+🥝	kiwi fruit
+🥞	pancakes
+🥟	dumpling
+🥠	fortune cookie
+🥡	takeout box
+🥢	chopsticks
+🥣	bowl with spoon
+🥤	cup with straw
+🥥	coconut
+🥦	broccoli
+🥧	pie
+🥨	pretzel
+🥩	cut of meat
+🥪	sandwich
+🥫	canned food
+🥬	leafy green
+🥭	mango
+🥮	moon cake
+🥯	bagel
+🥰	smiling face with 3 hearts
+🥱	yawning face
+🥲	smiling face with tear
+🥳	partying face
+🥴	woozy face
+🥵	hot face
+🥶	cold face
+🥷	ninja
+🥸	disguised face
+🥹	face holding back tears
+🥺	pleading face
+🥻	sari
+🥼	lab coat
+🥽	goggles
+🥾	hiking boot
+🥿	woman’s flat shoe
+🦀	crab
+🦁	lion face
+🦂	scorpion
+🦃	turkey
+🦄	unicorn face
+🦅	eagle
+🦆	duck
+🦇	bat
+🦈	shark
+🦉	owl
+🦊	fox face
+🦋	butterfly
+🦌	deer
+🦍	gorilla
+🦎	lizard
+🦏	rhinoceros
+🦐	shrimp
+🦑	squid
+🦒	giraffe
+🦓	zebra
+🦔	hedgehog
+🦕	sauropod
+🦖	t rex
+🦗	cricket
+🦘	kangaroo
+🦙	llama
+🦚	peacock
+🦛	hippopotamus
+🦜	parrot
+🦝	raccoon
+🦞	lobster
+🦟	mosquito
+🦠	microbe
+🦡	badger
+🦢	swan
+🦣	mammoth
+🦤	dodo
+🦥	sloth
+🦦	otter
+🦧	orangutan
+🦨	skunk
+🦩	flamingo
+🦪	oyster
+🦫	beaver
+🦬	bison
+🦭	seal
+🦮	guide dog
+🦯	white cane
+🦰	red haired
+🦱	curly haired
+🦲	bald
+🦳	white haired
+🦴	bone
+🦵	leg
+🦶	foot
+🦷	tooth
+🦸	superhero
+🦹	supervillain
+🦺	safety vest
+🦻	ear with hearing aid
+🦼	motorized wheelchair
+🦽	manual wheelchair
+🦾	mechanical arm
+🦿	mechanical leg
+🧀	cheese wedge
+🧁	cupcake
+🧂	salt
+🧃	beverage box
+🧄	garlic
+🧅	onion
+🧆	falafel
+🧇	waffle
+🧈	butter
+🧉	mate
+🧊	ice
+🧋	bubble tea
+🧌	troll
+🧍	person standing
+🧎	person kneeling
+🧏	deaf person
+🧐	face with monocle
+🧑	adult
+🧒	child
+🧓	older adult
+🧔	bearded person
+🧕	woman with headscarf
+🧖	person in steamy room
+🧗	person climbing
+🧘	person in lotus position
+🧙	mage
+🧚	fairy
+🧛	vampire
+🧜	merperson
+🧝	elf
+🧞	genie
+🧟	zombie
+🧠	brain
+🧡	orange heart
+🧢	billed cap
+🧣	scarf
+🧤	gloves
+🧥	coat
+🧦	socks
+🧧	red envelope
+🧨	firecracker
+🧩	jigsaw
+🧪	test tube
+🧫	petri dish
+🧬	dna
+🧭	compass
+🧮	abacus
+🧯	fire extinguisher
+🧰	toolbox
+🧱	bricks
+🧲	magnet
+🧳	luggage
+🧴	lotion bottle
+🧵	thread
+🧶	yarn
+🧷	safety pin
+🧸	teddy bear
+🧹	broom
+🧺	basket
+🧻	roll of paper
+🧼	soap
+🧽	sponge
+🧾	receipt
+🧿	nazar amulet
+🇦🇨	ascension island
+🇦🇩	andorra
+🇦🇪	united arab emirates
+🇦🇫	afghanistan
+🇦🇬	antigua and barbuda
+🇦🇮	anguilla
+🇦🇱	albania
+🇦🇲	armenia
+🇦🇴	angola
+🇦🇶	antarctica
+🇦🇷	argentina
+🇦🇸	american samoa
+🇦🇹	austria
+🇦🇺	australia
+🇦🇼	aruba
+🇦🇽	åland islands
+🇦🇿	azerbaijan
+🇧🇦	bosnia and herzegovina
+🇧🇧	barbados
+🇧🇩	bangladesh
+🇧🇪	belgium
+🇧🇫	burkina faso
+🇧🇬	bulgaria
+🇧🇭	bahrain
+🇧🇮	burundi
+🇧🇯	benin
+🇧🇱	saint barthélemy
+🇧🇲	bermuda
+🇧🇳	brunei
+🇧🇴	bolivia
+🇧🇶	caribbean netherlands
+🇧🇷	brazil
+🇧🇸	bahamas
+🇧🇹	bhutan
+🇧🇻	bouvet Island
+🇧🇼	botswana
+🇧🇾	belarus
+🇧🇿	belize
+🇨🇦	canada
+🇨🇨	cocos (keeling) islands
+🇨🇩	congo - kinshasa
+🇨🇫	central african republic
+🇨🇬	congo - brazzaville
+🇨🇭	switzerland
+🇨🇮	côte d'ivoire
+🇨🇰	cook islands
+🇨🇱	chile
+🇨🇲	cameroon
+🇨🇳	china
+🇨🇴	colombia
+🇨🇵	clipperton island
+🇨🇷	costa rica
+🇨🇺	cuba
+🇨🇻	cape verde
+🇨🇼	curaçao
+🇨🇽	christmas island
+🇨🇾	cyprus
+🇨🇿	czechia
+🇩🇪	germany
+🇩🇬	diego garcia
+🇩🇯	djibouti
+🇩🇰	denmark
+🇩🇲	dominica
+🇩🇴	dominican republic
+🇩🇿	algeria
+🇪🇦	ceuta and melilla
+🇪🇨	ecuador
+🇪🇪	estonia
+🇪🇬	egypt
+🇪🇭	western sahara
+🇪🇷	eritrea
+🇪🇸	spain
+🇪🇹	ethiopia
+🇪🇺	european union
+🇫🇮	finland
+🇫🇯	fiji
+🇫🇰	falkland islands
+🇫🇲	micronesia
+🇫🇴	faroe islands
+🇫🇷	france
+🇬🇦	gabon
+🇬🇧	united kingdom
+🇬🇩	grenada
+🇬🇪	georgia
+🇬🇫	french guiana
+🇬🇬	guernsey
+🇬🇭	ghana
+🇬🇮	gibraltar
+🇬🇱	greenland
+🇬🇲	gambia
+🇬🇳	guinea
+🇬🇵	guadeloupe
+🇬🇶	equatorial guinea
+🇬🇷	greece
+🇬🇸	south georgia and south sandwich islands
+🇬🇹	guatemala
+🇬🇺	guam
+🇬🇼	guinea bissau
+🇬🇾	guyana
+🇭🇰	hong kong SAR china
+🇭🇲	heard and mcdonald islands
+🇭🇳	honduras
+🇭🇷	croatia
+🇭🇹	haiti
+🇭🇺	hungary
+🇮🇨	canary islands
+🇮🇩	indonesia
+🇮🇪	ireland
+🇮🇱	israel
+🇮🇲	isle of man
+🇮🇳	india
+🇮🇴	british indian ocean territory
+🇮🇶	iraq
+🇮🇷	iran
+🇮🇸	iceland
+🇮🇹	italy
+🇯🇪	jersey
+🇯🇲	jamaica
+🇯🇴	jordan
+🇯🇵	japan
+🇰🇪	kenya
+🇰🇬	kyrgyzstan
+🇰🇭	cambodia
+🇰🇮	kiribati
+🇰🇲	comoros
+🇰🇳	saint kitts and nevis
+🇰🇵	north korea
+🇰🇷	south korea
+🇰🇼	kuwait
+🇰🇾	cayman islands
+🇰🇿	kazakhstan
+🇱🇦	laos
+🇱🇧	lebanon
+🇱🇨	saint lucia
+🇱🇮	liechtenstein
+🇱🇰	sri lanka
+🇱🇷	liberia
+🇱🇸	lesotho
+🇱🇹	lithuania
+🇱🇺	luxembourg
+🇱🇻	latvia
+🇱🇾	libya
+🇲🇦	morocco
+🇲🇨	monaco
+🇲🇩	moldova
+🇲🇪	montenegro
+🇲🇫	saint martin
+🇲🇬	madagascar
+🇲🇭	marshall islands
+🇲🇰	macedonia
+🇲🇱	mali
+🇲🇲	myanmar (burma)
+🇲🇳	mongolia
+🇲🇴	macau SAR china
+🇲🇵	northern mariana islands
+🇲🇶	martinique
+🇲🇷	mauritania
+🇲🇸	montserrat
+🇲🇹	malta
+🇲🇺	mauritius
+🇲🇻	maldives
+🇲🇼	malawi
+🇲🇽	mexico
+🇲🇾	malaysia
+🇲🇿	mozambique
+🇳🇦	namibia
+🇳🇨	new caledonia
+🇳🇪	niger
+🇳🇫	norfolk island
+🇳🇬	nigeria
+🇳🇮	nicaragua
+🇳🇱	netherlands
+🇳🇴	norway
+🇳🇵	nepal
+🇳🇷	nauru
+🇳🇺	niue
+🇳🇿	new zealand
+🇴🇲	oman
+🇵🇦	panama
+🇵🇪	peru
+🇵🇫	french polynesia
+🇵🇬	papua new guinea
+🇵🇭	philippines
+🇵🇰	pakistan
+🇵🇱	poland
+🇵🇲	saint pierre and miquelon
+🇵🇳	pitcairn islands
+🇵🇷	puerto rico
+🇵🇸	palestinian territories
+🇵🇹	portugal
+🇵🇼	palau
+🇵🇾	paraguay
+🇶🇦	qatar
+🇷🇪	réunion
+🇷🇴	romania
+🇷🇸	serbia
+🇷🇺	russia
+🇷🇼	rwanda
+🇸🇦	saudi arabia
+🇸🇧	solomon islands
+🇸🇨	seychelles
+🇸🇩	sudan
+🇸🇪	sweden
+🇸🇬	singapore
+🇸🇭	saint helena
+🇸🇮	slovenia
+🇸🇯	svalbard and jan mayen
+🇸🇰	slovakia
+🇸🇱	sierra leone
+🇸🇲	san marino
+🇸🇳	senegal
+🇸🇴	somalia
+🇸🇷	suriname
+🇸🇸	south sudan
+🇸🇹	são tomé and príncipe
+🇸🇻	el salvador
+🇸🇽	sint maarten
+🇸🇾	syria
+🇸🇿	swaziland
+🇹🇦	tristan da cunha
+🇹🇨	turks and caicos islands
+🇹🇩	chad
+🇹🇫	french southern territories
+🇹🇬	togo
+🇹🇭	thailand
+🇹🇯	tajikistan
+🇹🇰	tokelau
+🇹🇱	timor leste
+🇹🇲	turkmenistan
+🇹🇳	tunisia
+🇹🇴	tonga
+🇹🇷	turkey
+🇹🇹	trinidad and tobago
+🇹🇻	tuvalu
+🇹🇼	taiwan
+🇹🇿	tanzania
+🇺🇦	ukraine
+🇺🇬	uganda
+🇺🇲	u s outlying islands
+🇺🇳	united nations
+🇺🇸	united states
+🇺🇾	uruguay
+🇺🇿	uzbekistan
+🇻🇦	vatican city
+🇻🇨	saint vincent and grenadines
+🇻🇪	venezuela
+🇻🇬	british virgin islands
+🇻🇮	u s virgin islands
+🇻🇳	vietnam
+🇻🇺	vanuatu
+🇼🇫	wallis and futuna
+🇼🇸	samoa
+🇽🇰	kosovo
+🇾🇪	yemen
+🇾🇹	mayotte
+🇿🇦	south africa
+🇿🇲	zambia
+🇿🇼	zimbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	england
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	scotland
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	wales
+#️⃣	keycap hash
+*️⃣	keycap star
+0️⃣	keycap zero
+1️⃣	keycap one
+2️⃣	keycap two
+3️⃣	keycap three
+4️⃣	keycap four
+5️⃣	keycap five
+6️⃣	keycap six
+7️⃣	keycap seven
+8️⃣	keycap eight
+9️⃣	keycap nine
+🩰	ballet shoes
+🩱	one-piece swimsuit
+🩲	briefs
+🩳	shorts
+🩴	thong sandal
+🩵	light blue heart
+🩶	grey heart
+🩷	pink heart
+🩸	drop of blood
+🩹	adhesive bandage
+🩺	stethoscope
+🩻	x-ray
+🩼	crutch
+🪀	yo-yo
+🪁	kite
+🪂	parachute
+🪃	boomerang
+🪄	magic wand
+🪅	piñata
+🪆	nesting dolls
+🪇	maracas
+🪈	flute
+🪉	harp
+🪏	shovel
+🪐	ringed planet
+🪑	chair
+🪒	razor
+🪓	axe
+🪔	diya lamp
+🪕	banjo
+🪖	military helmet
+🪗	accordion
+🪘	long drum
+🪙	coin
+🪚	carpentry saw
+🪛	screwdriver
+🪜	ladder
+🪝	hook
+🪞	mirror
+🪟	window
+🪠	plunger
+🪡	sewing needle
+🪢	knot
+🪣	bucket
+🪤	mouse trap
+🪥	toothbrush
+🪦	headstone
+🪧	placard
+🪨	rock
+🪩	mirror ball
+🪪	identification card
+🪫	low battery
+🪬	hamsa
+🪭	folding hand fan
+🪮	hair pick
+🪯	khanda
+🪰	fly
+🪱	worm
+🪲	beetle
+🪳	cockroach
+🪴	potted plant
+🪵	wood
+🪶	feather
+🪷	lotus
+🪸	coral
+🪹	empty nest
+🪺	nest with eggs
+🪻	hyacinth
+🪼	jellyfish
+🪽	wing
+🪾	leafless tree
+🪿	goose
+🫀	anatomical heart
+🫁	lungs
+🫂	people hugging
+🫃	pregnant man
+🫄	pregnant person
+🫅	person with crown
+🫆	fingerprint
+🫎	moose
+🫏	donkey
+🫐	blueberries
+🫑	bell pepper
+🫒	olive
+🫓	flatbread
+🫔	tamale
+🫕	fondue
+🫖	teapot
+🫗	pouring liquid
+🫘	beans
+🫙	jar
+🫚	ginger root
+🫛	pea pod
+🫜	root vegetable
+🫟	splatter
+🫠	melting face
+🫡	saluting face
+🫢	face with open eyes and hand over mouth
+🫣	face with peeking eye
+🫤	face with diagonal mouth
+🫥	dotted line face
+🫦	biting lip
+🫧	bubbles
+🫨	shaking face
+🫩	face with bags under eyes
+🫰	hand with index finger and thumb crossed
+🫱	rightwards hand
+🫲	leftwards hand
+🫳	palm down hand
+🫴	palm up hand
+🫵	index pointing at the viewer
+🫶	heart hands
+🫷	leftwards pushing hand
+🫸	rightwards pushing hand
+⛓‍💥	broken chain
+❤‍🔥	heart on fire
+❤‍🩹	mending heart
+🍄‍🟫	brown mushroom
+🍋‍🟩	lime
+🏃‍♀‍➡	woman running facing right
+🏃‍♂‍➡	man running facing right
+🏃‍➡	person running facing right
+🏳‍⚧	transgender flag
+🐈‍⬛	black cat
+🐕‍🦺	service dog
+🐦‍⬛	black bird
+🐦‍🔥	phoenix
+🐻‍❄	polar bear
+👨‍🍼	man feeding baby
+👨‍🦯	man with white cane
+👨‍🦯‍➡	man with white cane facing right
+👨‍🦰	man red hair
+👨‍🦱	man curly hair
+👨‍🦲	man bald
+👨‍🦳	man white hair
+👨‍🦼	man in motorized wheelchair
+👨‍🦼‍➡	man in motorized wheelchair facing right
+👨‍🦽	man in manual wheelchair
+👨‍🦽‍➡	man in manual wheelchair facing right
+👩‍❤‍💋‍👨	kiss woman man
+👨‍❤‍💋‍👨	kiss man man
+👩‍❤‍💋‍👩	kiss woman woman
+👩‍❤‍👨	couple with heart woman man
+👨‍❤‍👨	couple with heart man man
+👩‍❤‍👩	couple with heart woman woman
+👨‍👩‍👦	family man woman boy
+👨‍👩‍👧	family man woman girl
+👨‍👩‍👧‍👦	family man woman girl boy
+👨‍👩‍👦‍👦	family man woman boy boy
+👨‍👩‍👧‍👧	family man woman girl girl
+👨‍👨‍👦	family man man boy
+👨‍👨‍👧	family man man girl
+👨‍👨‍👧‍👦	family man man girl boy
+👨‍👨‍👦‍👦	family man man boy boy
+👨‍👨‍👧‍👧	family man man girl girl
+👩‍🍼	woman feeding baby
+👩‍👩‍👦	family woman woman boy
+👩‍👩‍👧	family woman woman girl
+👩‍👩‍👧‍👦	family woman woman girl boy
+👩‍👩‍👦‍👦	family woman woman boy boy
+👩‍👩‍👧‍👧	family woman woman girl girl
+👨‍👦	family man boy
+👨‍👦‍👦	family man boy boy
+👨‍👧	family man girl
+👨‍👧‍👦	family man girl boy
+👨‍👧‍👧	family man girl girl
+👩‍👦	family woman boy
+👩‍👦‍👦	family woman boy boy
+👩‍👧	family woman girl
+👩‍👧‍👦	family woman girl boy
+👩‍👧‍👧	family woman girl girl
+👨‍⚕	man health worker
+👩‍⚕	woman health worker
+👨‍⚖	man judge
+👩‍⚖	woman judge
+👨‍✈	man pilot
+👩‍✈	woman pilot
+👨‍🌾	man farmer
+👩‍🌾	woman farmer
+👨‍🍳	man cook
+👩‍🍳	woman cook
+👨‍🎓	man student
+👩‍🎓	woman student
+👨‍🎤	man singer
+👩‍🎤	woman singer
+👨‍🎨	man artist
+👩‍🎨	woman artist
+👨‍🏫	man teacher
+👩‍🏫	woman teacher
+👨‍🏭	man factory worker
+👩‍🏭	woman factory worker
+👨‍💻	man technologist
+👩‍💻	woman technologist
+👨‍💼	man office worker
+👩‍💼	woman office worker
+👨‍🔧	man mechanic
+👩‍🔧	woman mechanic
+👨‍🔬	man scientist
+👩‍🔬	woman scientist
+👨‍🚀	man astronaut
+👩‍🚀	woman atronaut
+👨‍🚒	man firefighter
+👩‍🚒	woman firefighter
+👩‍🦯	woman with white cane
+👩‍🦯‍➡	woman with white cane facing right
+👩‍🦰	woman red hair
+👩‍🦱	woman curly hair
+👩‍🦲	woman bald
+👩‍🦳	woman white hair
+👩‍🦼	woman in motorized wheelchair
+👩‍🦼‍➡	woman in motorized wheelchair facing right
+👩‍🦽	woman in manual wheelchair
+👩‍🦽‍➡	woman in manual wheelchair facing right
+👮‍♀	woman police officer
+👮‍♂	man police officer
+👰‍♀	woman with veil
+👰‍♂	man with veil
+👱‍♀	blond-haired woman
+👱‍♂	blond-haired man
+👳‍♀	woman wearing turban
+👳‍♂	man wearing turban
+👷‍♀	woman construction worker
+👷‍♂	man construction worker
+💂‍♀	woman guard
+💂‍♂	man guard
+🕵️‍♀	woman detective
+🕵️‍♂	man detective
+😮‍💨	face exhaling
+😵‍💫	face with spiral eyes
+😶‍🌫	face in clouds
+🙂‍↔	head shaking horizontally
+🙂‍↕	head shaking vertically
+🚶‍♀‍➡	woman walking facing right
+🚶‍♂‍➡	man walking facing right
+🚶‍➡	person walking facing right
+🤵‍♀	woman in tuxedo
+🤵‍♂	man in tuxedo
+🦸‍♀	woman superhero
+🦸‍♂	man superhero
+🦹‍♀	woman supervillain
+🦹‍♂	man supervillain
+🧍‍♀	woman standing
+🧍‍♂	man standing
+🧎‍♀	woman kneeling
+🧎‍♀‍➡	woman kneeling facing right
+🧎‍♂	man kneeling
+🧎‍♂‍➡	man kneeling facing right
+🧎‍➡	person kneeling facing right
+🧏‍♀	deaf woman
+🧏‍♂	deaf man
+🧑‍⚕	health worker
+🧑‍⚖	judge
+🧑‍✈	pilot
+🧑‍🌾	farmer
+🧑‍🍳	cook
+🧑‍🍼	person feeding baby
+🧑‍🎄	Mx Claus
+🧑‍🎓	student
+🧑‍🎤	singer
+🧑‍🎨	artist
+🧑‍🏫	teacher
+🧑‍🏭	factory worker
+🧑‍💻	technologist
+🧑‍💼	office worker
+🧑‍🔧	mechanic
+🧑‍🔬	scientist
+🧑‍🚀	astronaut
+🧑‍🚒	firefighter
+🧑‍🤝‍🧑	people holding hands
+🧑‍🦯	person with white cane
+🧑‍🦯‍➡	person with white cane facing right
+🧑‍🦰	person red hair
+🧑‍🦱	person curly hair
+🧑‍🦲	person bald
+🧑‍🦳	person white hair
+🧑‍🦼	person in motorized wheelchair
+🧑‍🦼‍➡	person in motorized wheelchair facing right
+🧑‍🦽	person in manual wheelchair
+🧑‍🦽‍➡	person in manual wheelchair facing right
+🧑‍🧑‍🧒	family adult adult child
+🧑‍🧑‍🧒‍🧒	family adult adult child child
+🧑‍🧒	family adult child
+🧑‍🧒‍🧒	family adult child child
+🧑‍🩰	ballet dancer
+🧔‍♀	woman beard
+🧔‍♂	man beard
+🧙‍♀	woman mage
+🧙‍♂	man mage
+🧚‍♀	woman fairy
+🧚‍♂	man fairy
+🧛‍♀	woman vampire
+🧛‍♂	man vampire
+🧜‍♀	mermaid
+🧜‍♂	merman
+🧝‍♀	woman elf
+🧝‍♂	man elf
+🧞‍♀	woman genie
+🧞‍♂	man genie
+🧟‍♀	woman zombie
+🧟‍♂	man zombie
+⛹‍♀	woman bouncing ball
+⛹‍♂	man bouncing ball
+🏃‍♀	woman running
+🏃‍♂	man running
+🏄‍♀	woman surfacing
+🏄‍♂	man surfacing
+🏊‍♀	woman swimming
+🏊‍♂	man swimming
+🏋️‍♀	woman lifting weights
+🏋️‍♂	man lifting weights
+🏌️‍♀	woman golfing
+🏌️‍♂	man golfing
+👯‍♀	woman with bunny ears
+👯‍♂	man with bunny ears
+💆‍♀	woman getting massage
+💆‍♂	man getting massage
+💇‍♀	woman getting haircut
+💇‍♂	man getting haircut
+🚣‍♀	woman rowing boat
+🚣‍♂	man rowing boat
+🚴‍♀	woman biking
+🚴‍♂	man biking
+🚵‍♀	woman mountain biking
+🚵‍♂	man mountain biking
+🚶‍♀	woman walking
+🚶‍♂	man walking
+🤸‍♀	woman cartwheeling
+🤸‍♂	man cartwheeling
+🤹‍♀	woman juggling
+🤹‍♂	man juggling
+🤼‍♀	woman wrestling
+🤼‍♂	man wrestling
+🤽‍♀	woman playing water polo
+🤽‍♂	man playing water polo
+🤾‍♀	woman playing handball
+🤾‍♂	man playing handball
+🧖‍♀	woman in steamy room
+🧖‍♂	man in steamy room
+🧗‍♀	woman climbing
+🧗‍♂	man climbing
+🧘‍♀	woman in lotus position
+🧘‍♂	man in lotus position
+💁‍♀	woman tipping hand
+💁‍♂	man tipping hand
+🙅‍♀	woman gesturing no
+🙅‍♂	man gesturing no
+🙆‍♀	woman gesturing ok
+🙆‍♂	man gesturing ok
+🙇‍♀	woman bowing
+🙇‍♂	man bowing
+🙋‍♀	woman raising hand
+🙋‍♂	man raising hand
+🙍‍♀	woman frowning
+🙍‍♂	man frowning
+🙎‍♀	woman pouting
+🙎‍♂	man pouting
+🤦‍♀	woman facepalming
+🤦‍♂	man facepalming
+🤷‍♀	woman shrugging
+🤷‍♂	man shrugging
+🏳‍🌈	rainbow flag
+🏴‍☠	pirate flag
+👁‍🗨	eye in speech bubble
