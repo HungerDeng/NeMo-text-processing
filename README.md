@@ -80,6 +80,74 @@ cd NeMo-text-processing
 **_NOTE:_** If you only want the toolkit without additional conda-based dependencies, you may replace ``reinstall.sh`` with ``pip install -e .`` with the NeMo-text-processing root directory as your current working director.
 
 
+### Using uv from source
+
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then create and activate a virtual environment from the repository root:
+
+```bash
+uv venv --python 3.10
+source .venv/bin/activate
+```
+
+#### Run the package
+
+Install the package and its runtime dependencies in editable mode, then normalize a sample input:
+
+```bash
+uv pip install -e .
+python -m nemo_text_processing.text_normalization.normalize --text "12 kg"
+```
+
+Editable mode picks up changes to the Python source without reinstalling the package.
+
+By default, the command without setting `cache_dir` option indicates `cache_dir=None`, the grammar far files are BUILT IN MEMORY AND DISCARDED when the command finishes.
+
+##### Run with cache
+```
+python -m nemo_text_processing.text_normalization.normalize \
+  --language en \
+  --input_case cased \
+  --cache_dir .cache/nemo_grammars \
+  --text 'the price is $1,234.'
+```
+
+The first run will save the grammar `.far` files under the `.cache.nemo_grammars` folder; later runs load matching files from that directory. 
+
+> After changing the grammar code or the `related .tsv` data,  
+> we can add `--overwrite_cache` option to overwrite the stale grammar.
+> ```
+> python -m nemo_text_processing.text_normalization.normalize \
+>   --language en \
+>   --input_case cased \
+>   --cache_dir .cache/nemo_grammars \
+>   --overwrite_cache \
+>   --text 'the price is $1,234.'
+> ```
+
+
+#### Run the tests
+
+Install the package with its `test` extra, then run the suite on CPU:
+
+```bash
+uv pip install -e ".[test]"
+# run all the testings
+python -m pytest --cpu --tn_cache_dir=.cache/nemo_grammars
+# run a single testing
+python -m pytest --cpu --tn_cache_dir=.cache/nemo_grammars tests/nemo_text_processing/en/test_whitelist.py
+```
+
+Installing `.[test]` installs the runtime dependencies plus the packages in `requirements/requirements_test.txt`, so you can use this command directly after creating the environment.
+
+Both commands use the same cache, and `.cache` is ignored by Git. Different languages and input settings need their own grammar files, so the full suite may still take time on its first run.
+
+#### Why `uv pip install`?
+
+`setup.py` reads the runtime and test dependencies from the files in `requirements/`. The current `pyproject.toml` only selects setuptools as the build backend. `uv pip install -e` installs the package through this EXISTING SETUP. `uv add` writes dependencies into `pyproject.toml` and updates a uv lockfile and environment. Using `uv add -r` here would copy the requirements into `pyproject.toml`, leaving two places to maintain them. Use `uv add` when migrating the project's dependency declarations to uv.
+
+The Pynini platform requirements described in the Pip section apply to uv installs as well.
+
+
 Contributing
 ------------
 We welcome community contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
