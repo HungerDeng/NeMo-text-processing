@@ -17,11 +17,11 @@ from parameterized import parameterized
 
 from nemo_text_processing.text_normalization.normalize import Normalizer
 
-from tests.nemo_text_processing.utils import parse_test_case_file
+from tests.nemo_text_processing.utils import CACHE_DIR, parse_test_case_file
 
 
 class TestRange:
-    normalizer = Normalizer(input_case='cased', lang='vi', cache_dir=None, overwrite_cache=True)
+    normalizer = Normalizer(input_case='cased', lang='vi', cache_dir=CACHE_DIR, overwrite_cache=False)
 
     @parameterized.expand(parse_test_case_file("vi/data_text_normalization/test_cases_range.txt"))
     @pytest.mark.run_only_on('CPU')

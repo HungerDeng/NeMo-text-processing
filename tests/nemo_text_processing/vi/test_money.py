@@ -35,7 +35,7 @@ class TestMoney:
         assert pred == expected
 
     normalizer = Normalizer(
-        input_case='cased', lang='vi', cache_dir=CACHE_DIR, overwrite_cache=True, post_process=True
+        input_case='cased', lang='vi', cache_dir=CACHE_DIR, overwrite_cache=False, post_process=True
     )
 
     normalizer_with_audio = (

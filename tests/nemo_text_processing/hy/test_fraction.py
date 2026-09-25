@@ -23,7 +23,7 @@ from ..utils import CACHE_DIR, parse_test_case_file
 
 class TestFraction:
 
-    inverse_normalizer = InverseNormalizer(lang='hy', cache_dir=CACHE_DIR, overwrite_cache=True)
+    inverse_normalizer = InverseNormalizer(lang='hy', cache_dir=CACHE_DIR, overwrite_cache=False)
 
     @parameterized.expand(parse_test_case_file('hy/data_inverse_text_normalization/test_cases_fraction.txt'))
     @pytest.mark.run_only_on('CPU')
@@ -32,7 +32,7 @@ class TestFraction:
         pred = self.inverse_normalizer.inverse_normalize(test_input, verbose=True)
         assert pred == expected
 
-    normalizer = Normalizer(lang='hy', cache_dir=CACHE_DIR, overwrite_cache=True, input_case='lower_cased')
+    normalizer = Normalizer(lang='hy', cache_dir=CACHE_DIR, overwrite_cache=False, input_case='lower_cased')
 
     @parameterized.expand(parse_test_case_file('hy/data_text_normalization/test_cases_fraction.txt'))
     @pytest.mark.run_only_on('CPU')
