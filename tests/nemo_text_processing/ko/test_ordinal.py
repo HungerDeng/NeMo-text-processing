@@ -23,7 +23,10 @@ from ..utils import CACHE_DIR, parse_test_case_file
 
 class TestOrdinal:
     normalizer_ko = Normalizer(
-        lang='ko', cache_dir='export/ko_tn_grammars_lower_cased', overwrite_cache=False, input_case='lower_cased'
+        lang='ko',
+        cache_dir=CACHE_DIR or 'export/ko_tn_grammars_lower_cased',
+        overwrite_cache=False,
+        input_case='lower_cased',
     )
 
     @parameterized.expand(parse_test_case_file('ko/data_text_normalization/test_cases_ordinal.txt'))

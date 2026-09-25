@@ -65,7 +65,7 @@ class TestWhitelist:
             )
             assert expected in pred_non_deterministic
 
-    normalizer_uppercased = Normalizer(input_case='cased', lang='en')
+    normalizer_uppercased = Normalizer(input_case='cased', lang='en', cache_dir=CACHE_DIR, overwrite_cache=False)
     cases_uppercased = {"Dr. Evil": "doctor Evil", "dr. Evil": "dr. Evil", "no. 4": "no. four"}
 
     @parameterized.expand(cases_uppercased.items())
