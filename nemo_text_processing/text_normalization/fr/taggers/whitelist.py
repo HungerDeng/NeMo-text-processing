@@ -23,7 +23,8 @@ class WhiteListFst(GraphFst):
     """
     Finite state transducer for classifying whitelist, e.g.
         "sr." -> tokens { name: "bonjour" }
-    This class has highest priority among all classifier grammars. Whitelisted tokens are defined and loaded from "data/whitelist.tsv".
+    This class has highest priority among all classifier grammars. Whitelisted tokens are defined and loaded from
+    "data/whitelist.tsv" and "data/whitelist/symbol.tsv".
     Args:
         input_case: accepting either "lower_cased" or "cased" input.
         deterministic: if True will provide a single transduction option,
@@ -41,10 +42,20 @@ class WhiteListFst(GraphFst):
             graph = pynini.string_map(whitelist)
             return graph
 
-        graph = _get_whitelist_graph(input_case, get_abs_path("data/whitelist.tsv"))
+        def _get_default_whitelist_graph(input_case):
+            whitelist = load_labels(get_abs_path("data/whitelist.tsv"))
+            symbols = load_labels(get_abs_path("data/whitelist/symbol.tsv"))
+            if input_case == "lower_cased":
+                whitelist = [[x[0].lower()] + x[1:] for x in whitelist]
+                symbols = [[x[0].lower()] + x[1:] for x in symbols]
+            # Preserve the existing NeMo value if a symbol key also appears in the default whitelist.
+            existing_keys = {x[0] for x in whitelist}
+            return pynini.string_map(whitelist + [x for x in symbols if x[0] not in existing_keys])
+
+        graph = _get_default_whitelist_graph(input_case)
         if not deterministic and input_case != "lower_cased":
             graph |= pynutil.add_weight(
-                _get_whitelist_graph("lower_cased", get_abs_path("data/whitelist.tsv")), weight=0.0001
+                _get_default_whitelist_graph("lower_cased"), weight=0.0001
             )
 
         if input_file:
