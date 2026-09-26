@@ -2,3 +2,20 @@ avv.~avvocato
 dip. di Fisica~dipartimento di Fisica
 sig.na Sonia~signorina Sonia
 p.za Grande~piazza Grande
+😀~faccina con un gran sorriso
+🕐~ore una
+🕜~ore una e mezza
+🇮🇹~bandiera dell'Italia
+1️⃣~tasto con il numero uno
+🔟~tasto con il numero dieci
+👨‍👩‍👦~famiglia con un uomo, una donna e un bambino
+👩‍❤‍💋‍👨~bacio tra una donna e un uomo
+👨‍❤‍👨~due uomini innamorati
+💯~cento punti
+🏻~fototipo uno o due
+👩‍💻~tecnologa
+≤~minore o uguale
+₿~bitcoin
+₹~rupia indiana
+€~euro
+₽~rublo

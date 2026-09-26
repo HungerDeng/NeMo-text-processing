@@ -24,7 +24,8 @@ class WhiteListFst(GraphFst):
     Finite state transducer for classifying whitelist, e.g.
         "dr." -> tokens { name: "dottor" }
         "Avv." -> tokens { name: "avvocato" }
-    This class has highest priority among all classifier grammars. Whitelisted tokens are defined and loaded from "data/whitelist.tsv".
+    This class has highest priority among all classifier grammars. Whitelisted tokens are defined and loaded from
+    "data/whitelist/whitelist.tsv" and "data/whitelist/symbol.tsv".
 
     Args:
         input_case: accepting either "lower_cased" or "cased" input.
@@ -44,9 +45,17 @@ class WhiteListFst(GraphFst):
             return graph
 
         graph = _get_whitelist_graph(input_case, get_abs_path("data/whitelist/whitelist.tsv"))
+        # A small weight lets an amount such as ₿100 prefer the money grammar
+        # over a standalone currency symbol followed by a cardinal.
+        graph |= pynutil.add_weight(
+            _get_whitelist_graph(input_case, get_abs_path("data/whitelist/symbol.tsv")), weight=0.0001
+        )
         if not deterministic and input_case != "lower_cased":
             graph |= pynutil.add_weight(
                 _get_whitelist_graph("lower_cased", get_abs_path("data/whitelist/whitelist.tsv")), weight=0.0001
+            )
+            graph |= pynutil.add_weight(
+                _get_whitelist_graph("lower_cased", get_abs_path("data/whitelist/symbol.tsv")), weight=0.0002
             )
 
         if input_file:
