@@ -28,15 +28,17 @@ class WhiteListFst(GraphFst):
              Ms. -> { name: "ミス" }
              jr. -> { name: "ジュニア" }
              etc. -> { name: "エトセトラ" }
-    This class has highest priority among all classifier grammars. Whitelisted tokens are defined and loaded from "data/whitelist.tsv".
+    This class has highest priority among all classifier grammars. Whitelisted tokens are loaded from
+    "data/whitelist.tsv" and "data/whitelist/symbol.tsv".
     """
 
     def __init__(self, deterministic: bool = True):
         super().__init__(name="whitelist", kind="classify", deterministic=deterministic)
 
         whitelist = pynini.string_file(get_abs_path("data/whitelist.tsv"))
+        symbol = pynini.string_file(get_abs_path("data/whitelist/symbol.tsv"))
         title = pynini.string_file(get_abs_path("data/whitelist_title.tsv"))
         title_with_space = title + delete_space + pynutil.insert(" ")
-        graph = (pynutil.insert('name: "')) + (title_with_space | whitelist) + pynutil.insert('"')
+        graph = (pynutil.insert('name: "')) + (title_with_space | whitelist | symbol) + pynutil.insert('"')
 
         self.fst = graph.optimize()

@@ -106,6 +106,10 @@ class MoneyFst(GraphFst):
             simple_pattern = integer_part + pynutil.delete(symbol) + insert_space + maj_tag
             symbol_patterns.append(simple_pattern)
 
+            # Prefix forms such as ₿100 use the same currency names and spoken order.
+            prefix_pattern = pynutil.delete(symbol) + integer_part + insert_space + maj_tag
+            symbol_patterns.append(prefix_pattern)
+
             # Patterns with minor currency (cents/xu)
             if symbol in currency_minor_map:
                 minor_name = currency_minor_map[symbol]

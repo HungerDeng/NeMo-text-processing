@@ -46,7 +46,9 @@ class PunctuationFst(GraphFst):
         ]
         extra_symbols = [label[0] for label in load_labels(get_abs_path("data/punctuation/extra.tsv"))]
 
-        whitelist_symbols = load_labels(get_abs_path("data/symbol.tsv"))
+        whitelist_symbols = load_labels(get_abs_path("data/symbol.tsv")) + load_labels(
+            get_abs_path("data/whitelist/symbol.tsv")
+        )
         whitelist_symbols = [x[0] for x in whitelist_symbols]
         self.punct_marks = [p for p in punct_unicode + extra_symbols if p not in whitelist_symbols]
 

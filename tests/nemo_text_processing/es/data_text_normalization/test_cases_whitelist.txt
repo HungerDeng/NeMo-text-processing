@@ -5,3 +5,13 @@ da. ana pérez~doña ana pérez
 pza.~plaza
 c.º b.~camino bajo
 ee. uu.~estados unidos
+😀~cara sonriendo
+🕒~tres en punto
+🇪🇸~bandera de España
+🏳‍🌈~bandera del arcoíris
+👨‍👩‍👦~familia con un hombre, una mujer y un niño
+👩‍❤‍💋‍👨~beso entre una mujer y un hombre
+🏪~tienda de veinticuatro horas
+√~raíz cuadrada
+₿~bitcóin
+€~euro

@@ -1,4 +1,6 @@
 10₫~mười đồng
+100₿~một trăm bitcoin
+₿100~một trăm bitcoin
 10 đồng~mười đồng
 10,5 đồng~mười phẩy năm đồng
 10$~mười đô la

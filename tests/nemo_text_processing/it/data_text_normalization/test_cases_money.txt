@@ -3,3 +3,7 @@
 4,2 £~quattro sterline venti penny
 1 eur~un euro
 1 eur per il caffè~un euro per il caffè
+₿100~cento bitcoin
+₹100~cento rupie indiane
+₺100~cento lire turche
+€100~cento euro

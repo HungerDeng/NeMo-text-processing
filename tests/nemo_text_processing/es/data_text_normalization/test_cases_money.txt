@@ -27,6 +27,9 @@ crc 2~dos colones costarricenses
 ₡ 3~tres colones
 4 ttd~cuatro dólares de trinidad y tobago
 € 1~un euro
+€100~cien euros
+₿1~un bitcóin
+₿100~cien bitcoines
 1 £~una libra
 1 ₩~un won
 bop 1~un peso boliviano
