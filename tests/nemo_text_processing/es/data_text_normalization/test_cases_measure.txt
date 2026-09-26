@@ -30,3 +30,4 @@ a-5~a cinco
 40 ° k~cuarenta grados kelvin
 180 psi~ciento ochenta p s i
 2 + 2 - 1 = 3~dos más dos menos uno es igual a tres
+2 − 1 = 1~dos menos uno es igual a uno
