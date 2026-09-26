@@ -15,6 +15,9 @@ $ 29,50~vinte e nove dólares e cinquenta centavos
 $ 75,63~setenta e cinco dólares e sessenta e três centavos~setenta e cinco dólares com sessenta e três centavos
 € 1~um euro
 € 12~doze euros
+€100~cem euros
+₿100~cem bitcoins
+₡100~cem colones costarriquenhos
 € 12,05~doze euros e cinco centavos
 R$ 1000~mil reais
 R$ 1000000~um milhão de reais
